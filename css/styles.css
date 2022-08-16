@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+}
+
+#sidenav-bg {
+    width: 100%;
+}
+
+.brand-logo {
+    width: 100%;
+    /* margin-top: -2.5%; */
+}
+
+.sidenav svg {
+    fill: #283593;
+}
+
+#logo {
+    width: 10%;
+}
+
+.card {
+    border-radius: 1%;
+}
+
+.card-title {
+    background-color: #F2F2F2 ;
+    color: #393E46 !important;
+    font-weight: bold !important;
+    width: 100%;
+}
+
+#article-img {
+    width: 100%;
+    padding: 1%;
+    border-radius: 2%;
+}
+
+#article-content p {
+    padding: 5% 2%;
+}
+
+h1 {
+    text-align: center;
+    color: #393E46 !important;
+    font-weight: bold !important;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    padding: 5% 1%;
+}
+
+.profile-image {
+    width: 10%;
+}
+
+#author-image {
+    width: 100%;
+}
+
+.profile-name {
+    padding-left: 5%;
+    font-weight: bold;
+}
+
+#author-name {
+    text-align: left;
+}
+
+.card-content p {
+    clear: both;
+}
